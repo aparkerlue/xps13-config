@@ -5,7 +5,7 @@ Personal configuration files for Ubuntu on a Dell XPS 13
 
 ## Keyboard layout ##
 
-`/usr/share/X11/xkb` contains
+`usr/share/X11/xkb` contains
 [XKB](https://en.wikipedia.org/wiki/X_keyboard_extension)
 configuration files for achieving a UNIX-like layout on today's
 prevailing U.S. PC keyboards, where Caps lock is on the left edge of
