@@ -287,6 +287,7 @@
   md              Moldavian
   id              Indonesian (Jawi)
   my              Malay (Jawi, Arabic Keyboard)
+  us-unix         English (US, UNIX adaptation)
 
 ! variant
   chr             us: Cherokee

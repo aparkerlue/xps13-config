@@ -6059,6 +6059,17 @@
        </variant>
       </variantList>
     </layout>
+    <layout>
+      <configItem>
+        <name>us-unix</name>
+
+        <shortDescription>en</shortDescription>
+        <description>English (US, UNIX adaptation)</description>
+        <languageList>
+          <iso639Id>eng</iso639Id>
+        </languageList>
+      </configItem>
+    </layout>
   </layoutList>
   <optionList>
     <group allowMultipleSelection="true">

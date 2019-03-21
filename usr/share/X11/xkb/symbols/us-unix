@@ -1,0 +1,16 @@
+default
+xkb_symbols "basic" {
+
+    include "us(basic)"
+    name[Group1]= "English (US, UNIX adaptation)";
+
+    key <ESC> { [ Caps_Lock ] };
+    key <TLDE> { [ Escape, Escape ] };
+
+    key <CAPS> { [ Control_L ] };
+    key <LCTL> { [ grave, asciitilde ] };
+
+    key <BKSL> { [ BackSpace, BackSpace ] };
+    key <BKSP> { [ backslash, bar ] };
+
+};
